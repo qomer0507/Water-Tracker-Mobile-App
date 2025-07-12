@@ -10,4 +10,4 @@ Basic mobile app I built using React Native + Expo. Tracks daily water intake, s
 - **History Tab**: Shows a timeline of water intake logs with timestamps.
 - **Settings Tab**: Set your daily water intake goal in oz (default is 64). Stored with AsyncStorage so it’s saved between sessions.
 
-Data is persisted locally using AsyncStorage — no backend. Just wanted a simple tracker I could use and demo.
+Data is persisted locally using AsyncStorage. Just wanted a simple tracker I could use and demo.
